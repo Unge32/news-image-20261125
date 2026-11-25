@@ -1,0 +1,17 @@
+Build prompt — THE ATLAS LEDGER, news-image 20261125
+
+Build a 1024x1024 broadsheet image that sums up Wednesday 25 November
+2026 in one page. Masthead: THE ATLAS LEDGER. Kicker: THE WORLD IN ONE
+DAY. Giant serif headline: Wednesday 25 November 2026. Red badge: 34
+STORIES • 8 REGIONS • 28 ATLAS BUREAUS • ALL DATED 25 NOVEMBER 2026.
+Three red sub-headlines (Iowa lead-azide detonation; Pete Edochie dies
+at 79; Australia–Solomon Islands security pact). UTC timeline strip
+(00:18–03:00). The Day in Numbers (34 / 8 / 26 / $6.3B). Three
+illustrated hero stories (Shenzhou-24 + first Pakistani in orbit;
+Amnesty Gaza report; Houthis threaten Jeddah ports). Grid of 10 more
+stories. Numbered list of the final 18. Dotted world map with red
+dateline dots. Black DATE CHECK footer strip. Every headline must name
+a specific person, institution, place or number; every story first
+reported 25 November 2026 — zero 24 November stories. Output:
+entry.png (<=1 MiB) + main.py entrypoint that copies it to the output
+directory, deterministic, no network. Sources: SOURCES.md.
